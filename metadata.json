@@ -1,0 +1,6 @@
+{
+  "name": "Jay Durga International Trade",
+  "description": "Premium website of Jay Durga International Trade - a luxury international cosmetic, skincare, and beauty distributor based in Kathmandu, Nepal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
